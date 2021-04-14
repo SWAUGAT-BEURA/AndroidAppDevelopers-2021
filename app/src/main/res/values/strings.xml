@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">InternshipProgram</string>
+    <string name="search_text">View All</string>
 </resources>
